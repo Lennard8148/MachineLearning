@@ -24,18 +24,13 @@ Ein Bildklassifikationsmodell basierend auf dem CIFAR-10-Datensatz, das hochgela
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   Muss              | Funtional     | Als User möchte ich wissen wie genau das Modell ist.
- |
-| 2  |   Muss              |  Funtional    |   Als User möchte ich Bilder hochladen können, die klassifiziert werden.
- |
+| 1    |   Muss              | Funtional     | Als User möchte ich wissen wie genau das Modell ist.|
+| 2  |   Muss              |  Funtional    |   Als User möchte ich Bilder hochladen können, die klassifiziert werden.|
 | 3  |       Muss          | Funtional     |   Als User möchte ich, dass der CIFAR-10 Datensatz verwendet wird.                      |
 | 4  |     Kann            |   Qualität   |  Als User möchte ich, dass ich ein Klassifikations-Ergebnis erhalte, damit ich weiss was man auf dem Bild sieht.                   |
-| 5  |     Muss            |Funktional      |Als User möchte ich, dass das Modell um die 70% Genauigkeit hat, damit viele Bilder richtig klassifiziert werden.
-                                |
-| 6  |   Muss              | Funktional     |  Als User möchte ich, dass die Bilder, die ich hochlade, in jeder Grösse akzeptiert werden.
-                                |
-| 7  |   Muss              |  Rand    |   Als User möchte ich, dass das Model gespeichert wird und nicht jedes Mal neu kompiliert und trainiert werden muss
-                              |
+| 5  |     Muss            |Funktional      |Als User möchte ich, dass das Modell um die 70% Genauigkeit hat, damit viele Bilder richtig klassifiziert werden. |
+| 6  |   Muss              | Funktional     |  Als User möchte ich, dass die Bilder, die ich hochlade, in jeder Grösse akzeptiert werden. |
+| 7  |   Muss              |  Rand    |   Als User möchte ich, dass das Model gespeichert wird und nicht jedes Mal neu kompiliert und trainiert werden muss.  |
 
 
 ### 1.3 Testfälle
