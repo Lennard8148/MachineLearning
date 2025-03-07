@@ -119,7 +119,7 @@ In unserem Projekt haben wir mehrere wichtige Entscheidungen getroffen, um eine 
 | 2.1  |28.02.2025        |Funktioniert|  Filip und Lennard        |
 | 3.1  |28.02.2025       |Funktioniert|  Filip und Lennard        |
 | 4.1  |28.02.2025       |Funktioniert| Filip und Lennard         |
-| 5.1  |28.02.2025       |Funktioniert| Filip und Lennard         |
+| 5.1  |28.02.2025       |Funktioniert nicht| Filip und Lennard         |
 | 6.1  | 28.02.2025       |Funktioniert| Filip und Lennard         |
 | 7.1  | 28.02.2025       |Funktioniert| Filip und Lennard         |
 | 8.1  | 28.02.2025      |Funktioniert| Filip und Lennard         |
@@ -129,4 +129,4 @@ In unserem Projekt haben wir mehrere wichtige Entscheidungen getroffen, um eine 
 
 
 ## Fazit
-Das Projekt war insgesamt ein grosser Erfolg, auch wenn wir vor einigen Herausforderungen standen, die wir jedoch gemeinsam bewältigen konnten. Durch eine klare Aufgabenverteilung und gute Zusammenarbeit im Team konnten wir effizient arbeiten und wertvolle Erfahrungen sammeln. Besonders erfreulich war, dass die Implementierung unseres Modells sowie die Testphase ohne größere Probleme verliefen und unsere Ziele erreicht wurden. Rückblickend sind wir stolz auf das Ergebnis und nehmen viele neue Erkenntnisse für zukünftige Projekte mit.
+Das Projekt war insgesamt ein grosser Erfolg, auch wenn wir vor einigen Herausforderungen standen, die wir jedoch gemeinsam bewältigen konnten. Durch eine klare Aufgabenverteilung und gute Zusammenarbeit im Team konnten wir effizient arbeiten und wertvolle Erfahrungen sammeln. Besonders erfreulich war, dass die Implementierung unseres Modells sowie die Testphase ohne größere Probleme verliefen und fast alle unsere Ziele erreicht wurden. Rückblickend sind wir stolz auf das Ergebnis und nehmen viele neue Erkenntnisse für zukünftige Projekte mit.
