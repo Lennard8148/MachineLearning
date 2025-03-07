@@ -55,7 +55,7 @@ Ein Bildklassifikationsmodell basierend auf dem CIFAR-10-Datensatz, das hochgela
 
 ### 1.4 Diagramme
 
-![WhatsApp Image 2025-03-07 at 11 31 51](https://github.com/user-attachments/assets/e8ff33d8-a013-49b5-921e-db925b266498
+![WhatsApp Image 2025-03-07 at 11 31 51](https://github.com/user-attachments/assets/e8ff33d8-a013-49b5-921e-db925b266498)
 
 
 ## 2 Planen
