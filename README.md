@@ -5,13 +5,13 @@ Lennard Bühler, Filip Kritzner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|08.11.24| 0.0.1   |Informiert und geplant|
-|15.11.24| 0.0.2   |Anfangen von Realisieren und der Dokumentation|
-|22.11.24| 0.0.3   |Roulette hat visuelle Darstellung, Slots kann man drehen|
-|29.11.24| 0.0.4  |Roulette hat Animationen und es werden Gewinnzahlen generiert, Slots funktioniert|
-|06.12.24| 0.0.5   |Roulette fertiggestellt|
-|13.12.24| 0.0.6   |Slots haben Bilder und Animationen, Anleitungen für die Spiele erstellt|
-|28.02.25| 1.0.0   |Dokumentation und Programm fertiggestellt|
+|10.01.25| 0.0.1   |Informiert und geplant|
+|17.01.25| 0.0.2   |Anfangen von Realisieren und der Dokumentation|
+|24.01.25| 0.0.3   |Angefangen Modell zu erstellen|
+|31.01.25| 0.0.4  |Modell Training, GUI angefangen|
+|21.02.254| 0.0.5   |GUI weitergearbeitet|
+|28.02.25| 0.0.6   |Modell finalisiert, GUI finalisiert|
+|07.03.25| 1.0.0   |Dokumentation und Programm fertiggestellt|
 
 ## 1 Informieren
 
