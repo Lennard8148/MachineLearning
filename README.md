@@ -17,7 +17,7 @@ Lennard Bühler, Filip Kritzner
 
 ### 1.1 Ihr Projekt
 
-Ein Bildklassifikationsmodell basierend auf dem CIFAR-10-Datensatz, das hochgeladene Bilder analysiert und eine Klassifizierung mit einer Genauigkeit von etwa 70 % liefert.
+Ein Bildklassifikationsmodell basierend auf dem CIFAR-10-Datensatz, das hochgeladene Bilder analysiert und eine Klassifizierung ermöglicht. Ausserdem gibt es ein GUI mit Tkinter.
 
 
 ### 1.2 User Stories
